@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==3.2.10
+djangorestframework==3.12.4
+psycopg2-binary==2.9.1
+sqlparse==0.5.1
+typing_extensions==4.12.2
+odoorpc==0.7.0
